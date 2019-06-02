@@ -1,0 +1,81 @@
+﻿<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruzoperevozkip.ru" resolutions="1x" timestamp="1559247885490">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="o-nas.css" crc="493026967" ref="o-nas"/>
+    <file name="dokuments.css" crc="134668232" ref="dokuments"/>
+    <file name="index.css" crc="120112319" ref="index"/>
+    <file name="prise.css" crc="404759167" ref="prise"/>
+    <file name="chl.css" crc="3891775716" ref="chl"/>
+    <file name="uslugi.css" crc="3964262342" ref="uslugi"/>
+    <file name="autopark.css" crc="3919719509" ref="autopark"/>
+    <file name="svyaz.css" crc="4048377626" ref="svyaz"/>
+    <file name="org.css" crc="84569323" ref="org"/>
+    <file name="otzivy.css" crc="4204035615" ref="otzivy"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:otzivy:uslugi:o-nas:dokuments:svyaz:autopark:prise:chl:org"/>
+    <file name="museutils.js" crc="4216313831" ref="index:otzivy:uslugi:o-nas:dokuments:svyaz:autopark:prise:chl:org"/>
+    <file name="whatinput.js" crc="86476730" ref="index:otzivy:uslugi:o-nas:dokuments:svyaz:autopark:prise:chl:org"/>
+    <file name="museconfig.js" crc="474374037" ref="index:otzivy:uslugi:o-nas:dokuments:svyaz:autopark:prise:chl:org"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:otzivy:uslugi:o-nas:dokuments:svyaz:autopark:prise:chl:org"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:otzivy:uslugi:o-nas:dokuments:svyaz:autopark:prise:chl:org"/>
+    <file name="webpro.js" crc="4143865194" ref="index:otzivy:dokuments:svyaz:autopark"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:otzivy:dokuments:autopark"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:otzivy:dokuments:autopark"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:otzivy:dokuments:autopark"/>
+    <file name="require.js" crc="3951022091" ref="index:otzivy:uslugi:o-nas:dokuments:svyaz:autopark:prise:chl:org"/>
+    <file name="form_check.php" crc="154010282" ref="otzivy"/>
+    <file name="form_throttle.php" crc="266437015" ref="otzivy"/>
+    <file name="form_process.php" crc="512629711" ref="otzivy"/>
+    <file name="form-u3930.php" crc="3955080796" ref="otzivy"/>
+    <file name="form-u3446.php" crc="4002145591" ref="svyaz"/>
+  </folder>
+  <folder name="images">
+    <file name="лого.jpg" crc="98797122" ref="index:otzivy:uslugi:o-nas:dokuments:svyaz:autopark:prise:chl:org">
+      <caption webpage="index" alt=""/>
+      <caption webpage="chl" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="uslugi" alt=""/>
+      <caption webpage="prise" alt=""/>
+      <caption webpage="autopark" alt=""/>
+      <caption webpage="org" alt=""/>
+      <caption webpage="dokuments" alt=""/>
+      <caption webpage="otzivy" alt=""/>
+      <caption webpage="svyaz" alt=""/>
+    </file>
+    <file name="cropped-callout-bg.jpg" crc="162695638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slid11.jpg" crc="524559555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:autopark"/>
+    <file name="slide2-1920x1090.jpg" crc="419809524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:otzivy:autopark"/>
+    <file name="depositphotos_1053027-stock-photo-red-lorry-with-white-trailer.jpg" crc="453517158" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="motalka-gazelle-next.jpg" crc="494921667" seo="true" ref="autopark">
+      <caption webpage="autopark" alt=""/>
+    </file>
+    <file name="74349549_images_11253791646.jpg" crc="3788681778" seo="true" ref="autopark">
+      <caption webpage="autopark" alt=""/>
+    </file>
+    <file name="kia-k2500-01.jpg" crc="536580339" seo="true" ref="autopark">
+      <caption webpage="autopark" alt=""/>
+    </file>
+  </folder>
+  <file name="index.php" crc="3844838701" seo="true" mt="1559246989842" redirect="true"/>
+  <file name="otzivy.php" crc="281811180" seo="true" mt="1559247092512" redirect="true"/>
+  <file name="uslugi.php" crc="4160591323" seo="true" mt="1559247877376" redirect="true"/>
+  <file name="o-nas.php" crc="331085758" seo="true" mt="1559247304054" redirect="true"/>
+  <file name="dokuments.php" crc="81214989" seo="true" mt="1559247353965" redirect="true"/>
+  <file name="svyaz.php" crc="267162977" seo="true" mt="1559247527800" redirect="true"/>
+  <file name="autopark.php" crc="104860952" seo="true" mt="1559247439543" redirect="true"/>
+  <file name="prise.php" crc="3798986794" seo="true" mt="1559247608542" redirect="true"/>
+  <file name="chl.php" crc="3822131501" seo="true" mt="1559247666578" redirect="true"/>
+  <file name="org.php" crc="332731198" seo="true" mt="1559247729863" redirect="true"/>
+</manifest>
